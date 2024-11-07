@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Vrinda-Store-Data-Analysis (Dasboard creating using MS Excel)
 
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
@@ -19,9 +19,9 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ![Dashboard](https://github.com/user-attachments/assets/a8fdcd8f-d608-4808-b585-798db3a10117)
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
+- Women customers are more likely to buy products compared to men (~70%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The adult age group (30-49 yrs) is max contributing and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 - More than 90% of the products delivered
 
