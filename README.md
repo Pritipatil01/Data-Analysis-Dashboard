@@ -15,7 +15,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 -List top 10 states contributingto the sales?
 
 ## Dashboard
-![Uploading Dashboard.png…]()
+![Dashboard](https://github.com/user-attachments/assets/a8fdcd8f-d608-4808-b585-798db3a10117)
+
 
 
 
