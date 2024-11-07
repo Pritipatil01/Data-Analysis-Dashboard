@@ -4,7 +4,9 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Questions (KPIs)
 -Compare the sales and orders using combo chart.
+
 -Which month got the highest sales and orders?
+
 -Top 5 channels.
 -Which Channel is contributing maximum to the sales?
 -Who purchased more - Men or Women?
